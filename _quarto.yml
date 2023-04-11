@@ -1,0 +1,10 @@
+pproject:
+  title: "my_project"
+output:
+  baseurl: https://github.com/josefdebase/catalogue-003
+
+inputs:
+- type:notebook
+  path:/Users/josefdebase/Dokumente/GitHub/catalogue-003/jd/my_project/museen.ipynb.json
+
+  

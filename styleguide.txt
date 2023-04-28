@@ -1,0 +1,31 @@
+#Styleguide
+Styleguide: Deutsche Museen Website
+Farben
+* Hauptfarbe: #0071C5 (Blau)
+* Akzentfarbe: #FFCE00 (Gelb)
+Schriftarten
+* Überschriften: Open Sans Bold
+* Fließtext: Open Sans Regular
+Layout
+* Breite der Website: 1200px
+* Header: enthält das Logo und die Navigation
+* Footer: enthält Kontaktinformationen und Links zu den sozialen Medien
+Navigation
+* Startseite
+* Über uns
+* Sammlungen
+* Ausstellungen
+* Bildungsprogramme
+* Veranstaltungen
+* Kontakt
+Inhalte
+* Startseite: kurze Zusammenfassung der Website und ihrer Ziele
+* Über uns: Informationen über das Museum, seine Geschichte und Mission
+* Sammlungen: Übersicht über die verschiedenen Sammlungen des Museums
+* Ausstellungen: Liste der aktuellen und kommenden Ausstellungen mit kurzer Beschreibung und Datum
+* Bildungsprogramme: Informationen über die Bildungsprogramme des Museums für Kinder und Erwachsene
+* Veranstaltungen: Liste der Veranstaltungen des Museums mit Datum und kurzer Beschreibung
+* Kontakt: Kontaktformular und Informationen zur Anreise
+Bilder
+* Verwenden Sie hochwertige Bilder von Kunstwerken und Artefakten aus den Sammlungen des Museums
+* Verwenden Sie Bilder von Ausstellungen und Veranstaltungen, um das Museum als lebendigen und dynamischen Ort darzustellen
